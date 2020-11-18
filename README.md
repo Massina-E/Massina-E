@@ -1,3 +1,5 @@
+![banner image](https://github.com/Massina-E/Massina-E/blob/main/assets/banner1.png)
+
 ### Hi👋. I'm Massina Eloundou - Computer Scientist/Software Engineer.
 
 <!--
